@@ -74,4 +74,4 @@ Este projeto é de uso livre para fins de estudo e aprendizado.
 
 Desenvolvido por Felipe Barbosa 👋
 
-LinkedIn: (adicione aqui)
+LinkedIn: https://www.linkedin.com/in/felipe-barbosa-frontend/
